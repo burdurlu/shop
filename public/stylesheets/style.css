@@ -1,0 +1,38 @@
+body {
+
+    background: url("a.jpg") no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.card-body{
+
+    background-color: #dcdcdc;
+}
+.card{
+
+    margin-top:100px;
+}
+.footer {
+    background-color: #353332;
+    margin-top: 80px;
+    width:100%;
+    height: 100px;
+
+
+}
+
+.text-center{
+    position: relative;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    font-size: 36px;
+    transform: translate(-50%, -50%);
+    color : white;
+}
+.product-card{
+
+    margin-top:50px;
+}
